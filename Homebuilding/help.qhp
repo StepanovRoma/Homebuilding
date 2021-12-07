@@ -1,0 +1,26 @@
+<QtHelpProject version="1.0">
+     <namespace>stepanov.home</namespace>
+     <virtualFolder>doc</virtualFolder>
+     <customFilter name="Строительство дачного домика">
+         <filterAttribute>home</filterAttribute>
+         <filterAttribute>1.0</filterAttribute>
+     </customFilter>
+     <filterSection>
+         <filterAttribute>home</filterAttribute>
+         <filterAttribute>1.0</filterAttribute>
+         <toc>
+            <section title="Руководство по приложению" ref="index.html">
+                <section title="Выбор планировки" ref="doc.html">
+             </section>
+            <section title="Просмотр этапов планировки " ref="steps.html"/>
+            <section title="Выбор материала" ref="material.html">
+             </section>
+            <section title="Завершение плана строительства " ref="finish.html">
+             </section>
+             </section>
+         </toc>      
+         <files>
+             <file>*.html</file>
+         </files>
+     </filterSection>
+ </QtHelpProject>
